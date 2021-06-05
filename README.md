@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Walford.
 - 👀 I’m interested in learning new programming languages and meeting new people.  
 - 🌱 I’m currently learning MULTIPLE THINGS AT ONCE. 
-- 💞️ I’m looking to collaborate on scientific research studies or commercial client requests. 
+- 👥 I’m looking to collaborate on scientific research studies or commercial client requests. 
 - 📫 Just email me at alexanderrrwalf@gmail.com if you want to reach me or check out my website: https://alexanderwalford.uk 
 
 <!---
