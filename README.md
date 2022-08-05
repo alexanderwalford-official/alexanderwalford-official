@@ -1,8 +1,8 @@
 Introduction
 - 👋 Hi, I’m Alexander Walford.
-- 🧠 Interested in learning new programming languages and meeting new people.  
+- 🧠 Interested in learning new programming languages and meeting like-minded people.  
 - 👥 I’m looking to collaborate on scientific research studies or commercial client requests. 
-- 📫 Just email me at alexanderrrwalf@gmail.com if you want to reach me or check out my website: https://alexanderwalford.uk 
+- 📫 Just email me at alexanderrrwalf@gmail.com if you want to reach me. Or, check out my website: https://alexanderwalford.uk 
 
 Current Technical Skillset
 - C# (most experience)
