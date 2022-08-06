@@ -11,8 +11,8 @@ Current Technical Skillset
 - Web Server Scripting Languages (Django, PHP)
 - Python
 - Styling Languages (CSS, etc)
-- Javascript
 - Java
+- Javascript
 - Rust
 - Lua
 - C++ (least experience) 
