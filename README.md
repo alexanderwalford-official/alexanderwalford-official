@@ -6,7 +6,6 @@ Introduction
 
 Current Technical Skillset
 - C Languages (C#, C++)
-- RenLang
 - Markup Languages (html, xaml)
 - Web Server Scripting Languages (Django, PHP)
 - Python
