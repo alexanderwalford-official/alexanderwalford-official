@@ -14,4 +14,4 @@ Current Technical Skillset
 - Java
 - Rust
 - Lua
-- X86_64 Assembly NASM (still learning)
+- X86_64 Assembly NASM (WIP)
