@@ -13,5 +13,6 @@ Current Technical Skillset
 - Javascript
 - Java
 - Rust
+- Ruby
 - Lua
 - X86_64 Assembly NASM (WIP)
