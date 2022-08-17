@@ -15,4 +15,4 @@ Current Technical Skillset
 - Rust
 - Ruby
 - Lua
-- X86_64 Assembly NASM (WIP)
+- X64 Assembly
