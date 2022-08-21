@@ -5,7 +5,7 @@ Introduction
 - 📫 Just email me at alexanderrrwalf@gmail.com if you want to reach me. Or, check out my website: https://alexanderwalford.uk 
 
 Current Technical Skillset
-- C Languages (C#, C++)
+- C Languages (C, C#, C++)
 - Markup Languages (html, xaml)
 - Web Server Scripting Languages (Django, PHP)
 - Python
