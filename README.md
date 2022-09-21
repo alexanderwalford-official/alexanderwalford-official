@@ -1,8 +1,9 @@
 Introduction
 - 👋 Hi, I’m Alexander Walford.
 - 🧠 Full-stack development, aware of industry standards. 
-- 👥 I’m looking to collaborate on scientific research studies or commercial client requests. 
-- 📫 Just email me at alexanderrrwalf@gmail.com if you want to reach me. Feel free to check out my website: https://alexanderwalford.uk 
+- 👥 I’m looking to collaborate on scientific research studies or commercial client requests.
+- 📫 Feel free to email me at alexanderrrwalf@gmail.com and I'll be sure to respond. 
+- 🌐 Want to learn more about me? https://alexanderwalford.uk 
 
 Current Technical Skillset
 - C Languages (C, C#, C++)
