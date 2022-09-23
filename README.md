@@ -8,11 +8,10 @@ Introduction
 Current Technical Skillset
 - C Languages (C, C#, C++)
 - Web Server Scripting Languages (Django, PHP)
-- Python
+- Data Science Languages (R, Python)
 - Website Development (HTML, CSS, JS)
 - Java
 - Rust
 - Ruby
 - X64 Assembly
-- R
 - Lua
