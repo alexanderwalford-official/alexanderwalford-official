@@ -7,13 +7,12 @@ Introduction
 
 Current Technical Skillset
 - C Languages (C, C#, C++)
-- Markup Languages (html, xaml)
 - Web Server Scripting Languages (Django, PHP)
 - Python
-- Styling Languages (CSS, etc)
-- Javascript
+- Website Development (HTML, CSS, JS)
 - Java
 - Rust
 - Ruby
-- Lua
 - X64 Assembly
+- R
+- Lua
