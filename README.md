@@ -13,5 +13,5 @@ Current Technical Skillset
 - Java
 - Rust
 - Ruby
-- X64 Assembly
+- X64, X86 Assembly
 - Lua
