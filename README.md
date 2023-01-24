@@ -5,7 +5,7 @@ Introduction
 - 📫 Feel free to email me at alexanderrrwalf@gmail.com and I'll be sure to respond. 
 - 🌐 Want to learn more about me? https://alexanderwalford.uk 
 
-Current Technical Skillset
+Current Technical Skillset (best to worst)
 - C Languages (C, C#, C++)
 - Web Server Scripting Languages (Django, PHP)
 - Data Science Languages (R, Python)
