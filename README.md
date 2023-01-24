@@ -12,6 +12,6 @@ Current Technical Skillset (best to worst)
 - Website Development (HTML, CSS, JS)
 - Java
 - Rust
-- Ruby
 - X86 Assembly
+- Ruby
 - Lua
