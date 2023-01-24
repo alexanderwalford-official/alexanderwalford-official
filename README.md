@@ -8,8 +8,8 @@ Introduction
 Current Technical Skillset (best to worst)
 - C Languages (C, C#, C++)
 - Web Server Scripting Languages (Django, PHP)
-- Data Science Languages (R, Python)
 - Website Development (HTML, CSS, JS)
+- Data Science Languages (R, Python)
 - Java
 - Rust
 - X86 Assembly
