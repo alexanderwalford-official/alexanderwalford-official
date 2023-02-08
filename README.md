@@ -12,6 +12,6 @@ Current Technical Skillset (best to worst)
 - Data Science Languages (R, Python)
 - Java
 - Rust
-- X86 Assembly
+- Assembly
 - Ruby
 - Lua
