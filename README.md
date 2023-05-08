@@ -1,6 +1,6 @@
 Introduction
 - 👋 Hi, I’m Alexander Walford.
-- 👥 I’m looking to collaborate on scientific research studies or commercial client requests.
+- 👥 I’m looking to collaborate on research studies or commercial client requests.
 - 📫 Feel free to email me at alexanderrrwalf@gmail.com and I'll be sure to respond. 
 - 🌐 Want to learn more about me? https://alexanderwalford.uk 
 
