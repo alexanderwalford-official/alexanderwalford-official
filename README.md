@@ -1,16 +1,15 @@
-Introduction
+**Introduction**
 - 👋 Hi, I’m Alexander Walford.
-- 👥 I’m looking to collaborate on research studies or commercial client requests.
+- 👥 I’m looking to find a new full-time position in software development.
 - 📫 Feel free to email me at alexanderrrwalf@gmail.com and I'll be sure to respond. 
-- 🌐 Want to learn more about me? https://alexanderwalford.uk 
+- 🌐 Want to learn more about me? https://alexanderwalford.uk
+- 📚 Bachelor of Science degree in computing.
 
-Current Technical Skillset (best to worst)
-- C Languages (C, C#, C++)
+**Current Technical Skillset**
+- C Languages (C, C#) - Desktop and mobile application development, as well as game development. 
 - Web Server Scripting Languages (Django, PHP)
 - Website Development (HTML, CSS, JS)
-- Data Science Languages (R, Python)
-- Java
-- Rust
-- Assembly
-- Ruby
-- Lua
+- Python (data science and servers)
+- Java (application and game development)
+
+I also "know" several other programming languages but have spent limited time working with them, therefore I don't think it's safe to say that they are a part of my professional skillset. 
