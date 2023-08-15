@@ -1,6 +1,6 @@
 **Introduction**
 - 👋 Hi, I’m Alexander Walford.
-- 👥 I’m looking to find a new full-time position in software development.
+- 👥 TBU
 - 📫 Feel free to email me at alexanderrrwalf@gmail.com and I'll be sure to respond. 
 - 🌐 Want to learn more about me? https://alexanderwalford.uk
 - 📚 Bachelor of Science degree in computing.
