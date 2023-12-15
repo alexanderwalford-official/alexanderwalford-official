@@ -6,7 +6,7 @@
 - 📚 Bachelor of Science degree in computing.
 
 **Current Technical Skillset**
-- C Languages (C, C#) - Desktop and mobile application development, as well as game development. 
+- C Languages (C, C++, C#) - Desktop and mobile application development, as well as game development. 
 - Web Server Scripting Languages (Django, PHP)
 - Website Development (HTML, CSS, JS, React)
 - Python (data science and servers)
