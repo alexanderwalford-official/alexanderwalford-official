@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Alexander Walford.
 - 👥 Reach out if you need advice or want to invite me onto your project, please note that I work full-time.
 - 📫 Feel free to email me at alexanderrrwalf@gmail.com and I'll be sure to respond. 
-- 🌐 Want to learn more about me? https://alexanderwalford.uk
+- 🌐 Want to learn more about me? https://alexanderwalford.co.uk
 - 📚 Bachelor of Science degree in computing.
 
 **Current Technical Skillset**
